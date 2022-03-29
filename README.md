@@ -1,1 +1,1 @@
-# chat-con-heroku
+# chat-app
